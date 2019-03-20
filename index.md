@@ -1,9 +1,3 @@
----
-layout: home
-title: RaSTEES '19 workshop
-image: https://upload.wikimedia.org/wikipedia/commons/6/6c/01._Panorama_de_Lyon_pris_depuis_le_toit_de_la_Basilique_de_Fourvi%C3%A8re.jpg
----
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/plaublin/RaSTEES/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
