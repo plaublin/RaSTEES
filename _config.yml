@@ -13,4 +13,7 @@ navigation_header:
 # Site settings
 encoding: utf-8 # Make sure the encoding is right
 title: "RaSTEES '19"
+logo: "/assets/img/logo.png"
 
+# Site credits
+navigation_footer:
