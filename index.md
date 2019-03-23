@@ -1,14 +1,17 @@
 The 1st workshop on Reliable and Secure Trusted ExEcution Systems (RaSTEES '19) will
 take place on October 1, 2019, in Lyon, France, co-located with SRDS 2019.
 
-
-Storage systems are the cornerstone for a wide range of applications focusing
-distinct fields, such as cloud and high-performance computing, machine
-learning, deep learning, transactional and analytical processing, data science,
-among others. Each field has very specific needs in terms of performance,
-scalability, dependability and security, which raises the need for a new
-generation of non-monolithic, configurable and scenario-driven distributed and
-reliable storage solutions.
+The reliability and security of distributed systems is a major concern. Indeed,
+distributed systems can involve multiple parties that mistrust each others and
+are subject to faults. This is a particularly important problem for many
+applications that have to handle sensitive and personal data, such as cloud
+storage, communication services, etc.  A Trusted Execution Environment (TEE) is
+a practical solution to improving the reliability and security of applications
+running in an untrusted environment. Examples of TEEs include Intel SGX, ARM
+TrustZone and AMD SME/SEV. Unfortunately, using a TEE is not a straightforward
+task. Not only the hardware possesses several limitations, but there is also a
+lack of software support for implementing efficient and secure systems.
+Consequently many technical challenges need to be overcome. 
 
 The RaSTEES workshop aims at bringing together specialists across the world to
 solve these new challenges and help building a better understanding about the
