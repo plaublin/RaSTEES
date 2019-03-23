@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+The 1st workshop on Reliable and Secure Trusted ExEcution Systems (RaSTEES '19) will
+take place on October 1, 2019, in Lyon, France, co-located with SRDS 2019.
 
-You can use the [editor on GitHub](https://github.com/plaublin/RaSTEES/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Storage systems are the cornerstone for a wide range of applications focusing
+distinct fields, such as cloud and high-performance computing, machine
+learning, deep learning, transactional and analytical processing, data science,
+among others. Each field has very specific needs in terms of performance,
+scalability, dependability and security, which raises the need for a new
+generation of non-monolithic, configurable and scenario-driven distributed and
+reliable storage solutions.
 
-### Markdown
+The RaSTEES workshop aims at bringing together specialists across the world to
+solve these new challenges and help building a better understanding about the
+new directions on Trusted Execution Systems research.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Call for Papers for RaSTEES 2019 will soon be available, please consider
+submitting your work.
 
-```markdown
-Syntax highlighted code block
+For any question or suggestion you may have please do not hesitate in
+[contacting us][mailto:p.aublin@imperial.ac.uk]! 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plaublin/RaSTEES/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

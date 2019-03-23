@@ -1,3 +1,3 @@
-# Workshop Program
+## Workshop Program
 
 Will be announced later...

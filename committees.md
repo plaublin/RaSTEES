@@ -1,7 +1,10 @@
-# Organisation committee
+## Organisation committee
 
-In progress...
+- Dr Pierre-Louis Aublin (Keio University, Japan)
+- Prof. Kenji Kono, Keio University, Japan
+- Dr Dan O’Keeffe, Royal Holloway, University of London, UK
+- Dr Valerio Schiavoni, University of Neuchâtel, Switzerland
 
-# Program committee
+## Program committee
 
-In progress...
+To be announced...
