@@ -47,7 +47,7 @@ researchers and practitioners in this field.
 
 RaSTEES welcomes submissions in two formats:
 1. Regular research papers of at most 6 pages including references. Research
-	papers should be work that is not previously published or concurrently
+	papers should not be previously published or concurrently
 	submitted elsewhere and will be published in the proceedings.
 2. Short research statements of at most 1-2 pages. Research statements aim at
 	fostering discussion and collaboration. Research statements may summarize
