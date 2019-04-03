@@ -1,5 +1,6 @@
 The 1st workshop on Reliable and Secure Trusted ExEcution Systems (RaSTEES '19) will
-take place on October 1, 2019, in Lyon, France, co-located with SRDS 2019.
+take place on October 1, 2019, in Lyon, France, co-located with <a
+href="https://srds2019.projet.liris.cnrs.fr/">SRDS 2019</a>.
 
 The reliability and security of distributed systems is a major concern. Indeed,
 distributed systems can involve multiple parties that mistrust each others and
@@ -20,6 +21,5 @@ new directions on Trusted Execution Systems research.
 The Call for Papers for RaSTEES 2019 will soon be available, please consider
 submitting your work.
 
-For any question or suggestion you may have please do not hesitate in
-[contacting us][mailto:p.aublin@imperial.ac.uk]! 
+For any question or suggestion you may have please do not hesitate to <a href="mailto:{{site.contact.email}}">contact us</a>
 

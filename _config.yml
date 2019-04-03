@@ -18,3 +18,7 @@ logo: "/assets/img/logo.png"
 # Site credits
 navigation_footer:
    ""
+
+# contact
+contact:
+   email: pl@sslab.ics.keio.ac.jp
