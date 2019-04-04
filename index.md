@@ -1,3 +1,10 @@
+---
+layout: home
+title: RaSTEES '19 workshop
+feature_text: <h2 class="whitetext highlighted">RaSTEES '19<br />1st workshop on Reliable and Secure Trusted ExEcution Systems<br /><br />1st October 2019, Lyon, France</h2>
+image: https://upload.wikimedia.org/wikipedia/commons/6/6c/01._Panorama_de_Lyon_pris_depuis_le_toit_de_la_Basilique_de_Fourvi%C3%A8re.jpg 
+---
+
 The 1st workshop on Reliable and Secure Trusted ExEcution Systems (RaSTEES '19) will
 take place on October 1, 2019, in Lyon, France, co-located with <a
 href="https://srds2019.projet.liris.cnrs.fr/">SRDS 2019</a>.

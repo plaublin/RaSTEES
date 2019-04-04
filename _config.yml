@@ -1,24 +1,103 @@
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site navigation
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+
+# 2. Installed plugin gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jemoji
+- github-pages
+
+# 3. Gem settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
+compress_html:
+  clippings: all
+
+author: RaSTEES # jekyll-seo-tag > default author
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+#permalink: /:categories/:title/  # define url construction
+#timezone: America/New_York # Timezone for blog posts and alike
+
+# 6. Site wide defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+      #image: "/RaSTEES-dev/assets/img/logo.png" # Default image for sharing
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+  - scope:
+      path: ""
+      type: tag
+    values:
+      layout: tag
+collections:
+  tag:
+      output: true
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+title: "RaSTEES '19 workshop" # Site name or title, also used in jekyll-seo-tag
+logo: "RaSTEES '19" # Site logo, also used in jekyll-seo-tag
+
+# Site description and default description, also used in jekyll-seo-tag
+url: "https://plaublin.github.io/RaSTEES-dev/" # Site url, also used in jekyll-seo-tag
+#repo: "https://github.com/bawejakunal/bawejakunal.github.io"
+#avatarurl: "https://avatars0.githubusercontent.com/u/4623624"
+
+# default markdown processor and highlighter
+markdown: kramdown
+highlighter: rouge
+error_mode: strict
+
+# 8. Site navigation
+navigation_header:
+  Home: /RaSTEES-dev
+  CFP: /RaSTEES-dev/cfp
+  Committees: /RaSTEES-dev/committees
+  Dates: /RaSTEES-dev/dates
+  Paper submission: /RaSTEES-dev/submission
+  Program: /RaSTEES-dev/program
+
+#site credits
+navigation_footer:
+  ""
+
+contact:
+  email: pl@sslab.ics.keio.ac.jp 
+
 # Theme
 remote_theme: daviddarnes/alembic
 
-# Website pages
-navigation_header:
-   Home: /
-   CFP: /cfp
-   Committees: /committees
-   Dates: /dates
-   Paper submission: /submission
-   Program: /program
-
-# Site settings
-encoding: utf-8 # Make sure the encoding is right
-title: "RaSTEES '19"
-logo: "/assets/img/logo.png"
-
-# Site credits
-navigation_footer:
-   ""
-
-# contact
-contact:
-   email: pl@sslab.ics.keio.ac.jp
