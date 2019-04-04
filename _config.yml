@@ -50,7 +50,7 @@ defaults:
       type: pages
     values:
       layout: page # Default layout
-      #image: "/RaSTEES-dev/assets/img/logo.png" # Default image for sharing
+      #image: "/RaSTEES/assets/img/logo.png" # Default image for sharing
 
   - scope:
       path: ""
@@ -73,7 +73,7 @@ title: "RaSTEES '19 workshop" # Site name or title, also used in jekyll-seo-tag
 logo: "RaSTEES '19" # Site logo, also used in jekyll-seo-tag
 
 # Site description and default description, also used in jekyll-seo-tag
-url: "https://plaublin.github.io/RaSTEES-dev/" # Site url, also used in jekyll-seo-tag
+url: "https://plaublin.github.io/RaSTEES/" # Site url, also used in jekyll-seo-tag
 #repo: "https://github.com/bawejakunal/bawejakunal.github.io"
 #avatarurl: "https://avatars0.githubusercontent.com/u/4623624"
 
@@ -84,12 +84,12 @@ error_mode: strict
 
 # 8. Site navigation
 navigation_header:
-  Home: /RaSTEES-dev
-  CFP: /RaSTEES-dev/cfp
-  Committees: /RaSTEES-dev/committees
-  Dates: /RaSTEES-dev/dates
-  Paper submission: /RaSTEES-dev/submission
-  Program: /RaSTEES-dev/program
+  Home: /RaSTEES
+  CFP: /RaSTEES/cfp
+  Committees: /RaSTEES/committees
+  Dates: /RaSTEES/dates
+  Paper submission: /RaSTEES/submission
+  Program: /RaSTEES/program
 
 #site credits
 navigation_footer:
