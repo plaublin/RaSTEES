@@ -7,11 +7,20 @@ image: https://upload.wikimedia.org/wikipedia/commons/6/6c/01._Panorama_de_Lyon_
 
 ## Organisation committee
 
-- Dr Pierre-Louis Aublin, Keio University, Japan
-- Prof. Kenji Kono, Keio University, Japan
-- Dr Dan O’Keeffe, Royal Holloway, University of London, UK
-- Dr Valerio Schiavoni, University of Neuchâtel, Switzerland
+- Pierre-Louis Aublin, Keio University, Japan
+- Kenji Kono, Keio University, Japan
+- Dan O’Keeffe, Royal Holloway, University of London, UK
+- Valerio Schiavoni, University of Neuchâtel, Switzerland
 
 ## Program committee
 
-To be announced...
+- Paulo Coelho, Universidade de Uberlandia, Brazil    
+- Shujie Cui, Imperial College London, UK        
+- Tobias Distler, FAU Erlangen-Nürnberg, Germany    
+- Michio Honda, NEC Labs Europe, Germany        
+- Rüdiger Kapitza, TU Braunschweig, Germany        
+- Laurent Réveillère, LABRI, Bordeaux, France        
+- Alain Tchana, Université Cote d’Azur, Nice, France     
+- Huanzhou Zhu, Imperial College London, UK        
+- ...
+
