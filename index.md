@@ -17,7 +17,7 @@ storage, communication services, etc.  A Trusted Execution Environment (TEE) is
 a practical solution to improving the reliability and security of applications
 running in an untrusted environment. Examples of TEEs include Intel SGX, ARM
 TrustZone and AMD SME/SEV. Unfortunately, using a TEE is not a straightforward
-task. Not only the hardware possesses several limitations, but there is also a
+task. Not only does TEE hardware have several limitations, but there is also a
 lack of software support for implementing efficient and secure systems.
 Consequently many technical challenges need to be overcome. 
 
