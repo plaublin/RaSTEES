@@ -21,9 +21,9 @@ task. Not only the hardware possesses several limitations, but there is also a
 lack of software support for implementing efficient and secure systems.
 Consequently many technical challenges need to be overcome. 
 
-The RaSTEES workshop aims at bringing together specialists across the world to
-solve these new challenges and help building a better understanding about the
-new directions on Trusted Execution Systems research.
+The RaSTEES workshop aims to bring together specialists across the world to
+solve these new challenges and help build a better understanding of new directions 
+in Trusted Execution Systems research.
 
 The Call for Papers for RaSTEES 2019 will soon be available, please consider
 submitting your work.
