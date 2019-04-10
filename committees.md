@@ -19,6 +19,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/6/6c/01._Panorama_de_Lyon_
 - Tobias Distler, FAU Erlangen-Nürnberg, Germany    
 - Michio Honda, NEC Labs Europe, Germany        
 - Rüdiger Kapitza, TU Braunschweig, Germany        
+- André Martin, TU Dresden, Germany
 - Laurent Réveillère, LABRI, Bordeaux, France        
 - Alain Tchana, Université Cote d’Azur, Nice, France     
 - Huanzhou Zhu, Imperial College London, UK        
