@@ -10,9 +10,9 @@ take place on October 1, 2019, in Lyon, France, co-located with <a
 href="https://srds2019.projet.liris.cnrs.fr/">SRDS 2019</a>.
 
 The reliability and security of distributed systems is a major concern. Indeed,
-distributed systems can involve multiple parties that mistrust each others and
+distributed systems can involve multiple parties that mistrust each other and
 are subject to faults. This is a particularly important problem for applications 
-that have to handle sensitive and personal data, such as cloud
+that handle sensitive and personal data, such as cloud
 storage, communication services, etc.  A Trusted Execution Environment (TEE) is
 a practical solution to improving the reliability and security of applications
 running in an untrusted environment. Examples of TEEs include Intel SGX, ARM
