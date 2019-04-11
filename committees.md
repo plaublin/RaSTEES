@@ -17,11 +17,11 @@ image: https://upload.wikimedia.org/wikipedia/commons/6/6c/01._Panorama_de_Lyon_
 - Paulo Coelho, Universidade de Uberlandia, Brazil    
 - Shujie Cui, Imperial College London, UK        
 - Tobias Distler, FAU Erlangen-Nürnberg, Germany    
+- David Eyers, University of Otago, New-Zealand
 - Michio Honda, NEC Labs Europe, Germany        
 - Rüdiger Kapitza, TU Braunschweig, Germany        
 - André Martin, TU Dresden, Germany
 - Laurent Réveillère, LABRI, Bordeaux, France        
 - Alain Tchana, Université Cote d’Azur, Nice, France     
 - Huanzhou Zhu, Imperial College London, UK        
-- ...
 
