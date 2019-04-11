@@ -10,20 +10,20 @@ take place on October 1, 2019, in Lyon, France, co-located with <a
 href="https://srds2019.projet.liris.cnrs.fr/">SRDS 2019</a>.
 
 The reliability and security of distributed systems is a major concern. Indeed,
-distributed systems can involve multiple parties that mistrust each others and
-are subject to faults. This is a particularly important problem for many
-applications that have to handle sensitive and personal data, such as cloud
+distributed systems can involve multiple parties that mistrust each other and
+are subject to faults. This is a particularly important problem for applications 
+that handle sensitive and personal data, such as cloud
 storage, communication services, etc.  A Trusted Execution Environment (TEE) is
 a practical solution to improving the reliability and security of applications
 running in an untrusted environment. Examples of TEEs include Intel SGX, ARM
 TrustZone and AMD SME/SEV. Unfortunately, using a TEE is not a straightforward
-task. Not only the hardware possesses several limitations, but there is also a
+task. Not only does TEE hardware have several limitations, but there is also a
 lack of software support for implementing efficient and secure systems.
 Consequently many technical challenges need to be overcome. 
 
-The RaSTEES workshop aims at bringing together specialists across the world to
-solve these new challenges and help building a better understanding about the
-new directions on Trusted Execution Systems research.
+The RaSTEES workshop aims to bring together specialists across the world to
+solve these new challenges and help build a better understanding of new directions 
+in Trusted Execution Systems research.
 
 The Call for Papers for RaSTEES 2019 will soon be available, please consider
 submitting your work.
