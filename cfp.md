@@ -72,7 +72,7 @@ The link for paper submission will be available soon.
 
 ### Important dates
 
-- Submission Deadline: 21th Jun 2019
+- Submission Deadline: 21th Jun 2019 (AoE)
 - Author Notification: 19th Jul 2019
 - Camera Ready Submission: 2nd Aug 2019
 - Workshop date: 1st October 2019
