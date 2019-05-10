@@ -23,4 +23,4 @@ single-blind. This means that the names and affiliations of the authors must
 appear in the submitted papers. Each paper will receive at least three reviews
 from members of the program committee.
 
-The link for paper submission will be available soon.
+Submissions should be made online at [https://rastees19.hotcrp.com/]. 
