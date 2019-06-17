@@ -73,7 +73,7 @@ Submissions should be made online at
 
 ### Important dates
 
-- Submission Deadline: 21th Jun 2019 (AoE)
+- Submission Deadline: ~~21th Jun 2019~~ extended to 3rd July 2019 (AoE)
 - Author Notification: 19th Jul 2019
 - Camera Ready Submission: 2nd Aug 2019
 - Workshop date: 1st October 2019
